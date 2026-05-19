@@ -127,6 +127,24 @@ A scratch space for Slack/AI demos, family-life tools, and physics toys. Most sh
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Frameworks & Libraries**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/-Recharts-FF6384?style=flat-square&logoColor=white)
+
+**Backend & Data**
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+**Deployment & Infra**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![UniFi](https://img.shields.io/badge/-UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+
 **LLMs & Agentic Tooling**
 ![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -134,11 +152,12 @@ A scratch space for Slack/AI demos, family-life tools, and physics toys. Most sh
 ![Grok](https://img.shields.io/badge/-xAI%20Grok-000000?style=flat-square&logo=x&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-6E56CF?style=flat-square&logoColor=white)
 
-**IDEs**
+**IDEs & Dev Tools**
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-3B82F6?style=flat-square&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
