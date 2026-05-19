@@ -144,6 +144,8 @@ A scratch space for Slack/AI demos, family-life tools, and physics toys. Most sh
 **Deployment & Infra**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![UniFi](https://img.shields.io/badge/-UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 
 **Platforms**
