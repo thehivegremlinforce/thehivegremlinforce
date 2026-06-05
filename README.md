@@ -8,7 +8,7 @@
 
 ## About
 
-15+ years in tech 🇦🇺🇳🇿. By day I lead Slack's Solutions Engineering team across ANZ — applied AI and agentic workflows in regulated enterprise. The interesting part isn't the slideware; it's the controls reviews, MCP wiring, and threat models that decide whether AI actually ships.
+20+ years in tech 🇦🇺🇳🇿. By day I lead Slack's Solutions Engineering team across ANZ — applied AI and agentic workflows in regulated enterprise. The interesting part isn't the slideware; it's the controls reviews, MCP wiring, and threat models that decide whether AI actually ships.
 
 The rest of the time I'm building. ~30 side projects spanning Slack/AI demos, family-life tools (postpartum, baby sleep, glucose tracking), home utilities (solar ROI, UniFi dashboards, weather, IPTV), and physics toys (gravity sims, life sandboxes, periodic tables). Mostly TypeScript in the browser; Python or Swift when the problem demands it.
 
