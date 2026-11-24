@@ -2,13 +2,13 @@
 
 ---
 
-🚀 **Head of Slack Solutions Engineering, ANZ** | Applied AI GTM | Founding Slack APAC SE
+🚀 **Slack Field CTO and Head of Solutions Engineering, Slack Australia and New Zealand | Applied AI, AI Agents and Forward Deployed Engineering**
 
 ---
 
 ## About
 
-20+ years in tech 🇦🇺🇳🇿. By day I lead Slack's Solutions Engineering team across ANZ — applied AI and agentic workflows in regulated enterprise. The interesting part isn't the slideware; it's the controls reviews, MCP wiring, and threat models that decide whether AI actually ships.
+20+ years in tech 🇦🇺🇳🇿. By day I'm Slack Field CTO and Head of Solutions Engineering across Australia and New Zealand (ANZ), working in Applied AI and forward deployed engineering in regulated enterprise. The interesting part isn't the slideware; it's the controls reviews, MCP wiring, and threat models that decide whether AI actually ships.
 
 The rest of the time I'm building. ~30 side projects spanning Slack/AI demos, family-life tools (postpartum, baby sleep, glucose tracking), home utilities (solar ROI, UniFi dashboards, weather, IPTV), and physics toys (gravity sims, life sandboxes, periodic tables). Mostly TypeScript in the browser; Python or Swift when the problem demands it.
 
@@ -88,7 +88,7 @@ A scratch space for Slack/AI demos, family-life tools, and physics toys. Most sh
 - 😴 **[fatiguelab](https://github.com/thehivegremlinforce/fatiguelab)** — In-browser real-time fatigue / drowsiness detector using MediaPipe Face Mesh (EAR / MAR / PERCLOS), 100% client-side ML.
 - 💖 **BetterEverAfter** _(private)_ — Low-pressure postpartum recovery companion with separate mother + partner dashboards and privacy controls.
 - 🍼 **Family-Roster** _(private)_ — Sleep-protecting roster for new parents with AI purpose notes and nap predictions.
-- 👶 **knockknock** _(private)_ — Mobile baby-kick tracker with one-tap recording, batch entry, and ML next-kick predictions (GPT-4.3).
+- 👶 **knockknock** _(private)_ — Mobile baby-kick tracker with one-tap recording, batch entry, and ML next-kick predictions (gpt-4o).
 - 🛏️ **briansnoo** _(private)_ — Mobile dashboard for tracking and controlling a SNOO bassinet via `pysnooapi`, with analytics and CSV export.
 - 🩸 **spoonfull** _(private)_ — Glucose-monitoring app pulling LibreLink Up data with AI insights and insulin tracking; integrates with Abbott LibreBGM.
 - 📅 **FamilyCalendar** _(private, archived)_ — Family calendar with recurring events, categories, and CalDAV sync.
@@ -157,7 +157,6 @@ A scratch space for Slack/AI demos, family-life tools, and physics toys. Most sh
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/-xAI%20Grok-000000?style=flat-square&logo=x&logoColor=white)
-![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-6E56CF?style=flat-square&logoColor=white)
 
 **IDEs & Dev Tools**
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logoColor=white)
